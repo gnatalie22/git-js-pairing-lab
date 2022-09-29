@@ -18,4 +18,4 @@ const multiplesOfThreeOrFive = () => {
     }
 }
 
-// multiplesOfThreeOrFive();
+multiplesOfThreeOrFive();
