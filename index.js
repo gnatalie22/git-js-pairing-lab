@@ -4,6 +4,3 @@ function fiveToOneHundred(){
         console.log(i);
     }
 }
-
-// fiveToOneHundred();
-
