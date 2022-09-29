@@ -5,17 +5,27 @@ function fiveToOneHundred(){
         console.log(i);
     }
 }
-
-// fiveToOneHundred();
-
-//3 
-
-const multiplesOfThreeOrFive = () => {
-    for (let i = 3; i <= 100; i++) {
-        if (i % 3 === 0 || i % 5 ===0) {
-            console.log(i);
+function multipleOfThree(){
+    for (let i=3;i < 100;i++){
+        if(i%3===0){
+            console.log(i)
         }
     }
+} 
+//multipleOfThree()
+
+//4
+ 
+ function untilNum(num){
+     for(let i=1;i<=num;i++){
+         console.log(i)
+     }
+ }
+untilNum(5)
+
+const multiplesOfThreeOrFive = () => {
+    
 }
 
 multiplesOfThreeOrFive();
+
