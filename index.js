@@ -14,14 +14,6 @@ function multipleOfThree(){
 } 
 //multipleOfThree()
 
-//4
- 
- function untilNum(num){
-     for(let i=1;i<=num;i++){
-         console.log(i)
-     }
- }
-untilNum(5)
 // 3
 function multiplesOfThreeOrFive() {
     for (let i = 1; i < 100; i++) {
@@ -31,3 +23,11 @@ function multiplesOfThreeOrFive() {
     }
 }
 
+//4
+ 
+ function untilNum(num){
+     for(let i=1;i<=num;i++){
+         console.log(i)
+     }
+ }
+untilNum(5)
